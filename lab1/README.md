@@ -9,4 +9,4 @@
 
 Інструменти розробки: VS Code, Javascript/VueJS, Twitter Bootstrap, Material UI, NodeJS, diagram.net
 
-Звіт : https://docs.google.com/document/d/1o9rQZZghzWRfuvECsn3PR_0ptCvRJIXc1Yp-VKmHC5E/edit?usp=sharing
+Звіт : [https://docs.google.com/document/d/1o9rQZZghzWRfuvECsn3PR_0ptCvRJIXc1Yp-VKmHC5E/edit?usp=sharing](https://docs.google.com/document/d/1918Q7aXSVgZZKEQIHmIgsHqggdRgkjJV0RKHtyyqvNk/edit?usp=sharing)
